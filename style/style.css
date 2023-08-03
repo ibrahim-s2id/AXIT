@@ -1021,10 +1021,7 @@ input:checked+.slider:before {
 
     .above-carousel {
         height: 100%;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
+        margin-top: 10%;
     }
 
     .above-carousel .font-large {
