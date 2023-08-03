@@ -1026,7 +1026,13 @@ input:checked+.slider:before {
     .above-carousel .font-large {
         height: 50px;
     }
+    .hight>div {
+        height: calc(100vh - 250px);
+    }
 
+    .hight>div img {
+        height: calc(100vh - 250px);
+    }
     .card-price {
         width: 90%;
     }
