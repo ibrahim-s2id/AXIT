@@ -1037,3 +1037,13 @@ input:checked+.slider:before {
         width: 90%;
     }
 }
+@media screen and (orientation: landscape) and (max-height: 590px){
+    .hight>div {
+        height: 500px;
+    }
+
+    .hight>div img {
+        height: 500px;
+    }
+}
+
