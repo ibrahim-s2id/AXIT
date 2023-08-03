@@ -1027,7 +1027,7 @@ input:checked+.slider:before {
         height: 50px;
     }
     .hight>div {
-        height: calc(100vh - 550px);
+        height: calc(100vh - 250px);
     }
 
     .hight>div img {
